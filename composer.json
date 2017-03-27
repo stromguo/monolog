@@ -1,0 +1,13 @@
+{
+    "name": "stromguo/monolog",
+    "description": "composer test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "strom guo",
+            "email": "505101194@qq.com"
+        }
+    ],
+    "require": {}
+}
